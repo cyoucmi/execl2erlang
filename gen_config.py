@@ -1,4 +1,4 @@
-#created by chengcheng<cyoucmi@gmail>
+#created by chengcheng<cyoucmi@gmail.com>
 #date:2014/7/16
 
 import os
