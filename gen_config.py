@@ -1,11 +1,12 @@
+#created by chengcheng<cyoucmi@gmail>
+#date:2014/7/16
+
 import os
 import xlrd
 import re
-import sys
 import time
 import codecs
-reload(sys)
-sys.setdefaultencoding('utf8')
+import sys
 
 useless_row_num = 10
 
